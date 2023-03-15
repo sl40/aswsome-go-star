@@ -6,7 +6,7 @@ Copy from awsome-go and added the number of stars to each github project
 
 ## Contents
 
-- [Awesome Go](#awesome-go)
+- [Awesome Go](#awesome-go-star)
     - [Contents](#contents)
     - [Audio and Music](#audio-and-music)
     - [Authentication and OAuth](#authentication-and-oauth)
